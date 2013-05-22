@@ -1,0 +1,6 @@
+[submodule "tb"]
+	path = tb
+	url = git@github.com:epsilony/tb.git
+[submodule "mf"]
+	path = mf
+	url = git@github.com:epsilony/mf.git
